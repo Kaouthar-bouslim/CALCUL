@@ -10,8 +10,8 @@
 <body>
 <form action="calcul.php" method="POST">
 
-    <input type="text" name="V1" placeholder="valeur 1">
-<input type="text" name="V2" placeholder="valeur 2">
+    <input type="text" name="V1" placeholder="valeur 1" required>
+<input type="text" name="V2" placeholder="valeur 2" required>
 <br>
 <table>
 <br>
